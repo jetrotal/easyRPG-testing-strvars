@@ -1,0 +1,9 @@
+**** BEGIN LOGGING AT Fri Jul  7 18:26:27 2023
+
+Jul 07 18:26:40 <fdelapena[e]1>	works (?)
+Jul 07 18:27:41 <jetrotal0[e]>	I wonder if can I just pickup the last line
+Jul 07 18:27:46 <jorgemaker[e]>	Soooo bad ideia
+Jul 07 18:27:50 <jetrotal0[e]>	in maniacs stringvar
+Jul 07 18:27:52 <jorgemaker[e]>	* Soooo bad idea
+Jul 07 18:27:58 <jorgemaker[e]>	Popline
+Jul 07 18:27:58 <jetrotal0[e]>	I'm reading directly from log file

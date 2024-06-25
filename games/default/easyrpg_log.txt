@@ -1,0 +1,1326 @@
+[2023-07-07 18:32:20] Debug: Cannot find: Font/Font
+[2023-07-07 18:32:20] Debug: Cannot find: Font/Font2
+[2023-07-07 18:32:21] Debug: Resolution changed to 320x240
+[2023-07-07 18:32:21] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:32:21] Debug: Tree: INIT < map2
+[2023-07-07 18:32:22] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:32:22] Debug: Invalid read strvar[0]!
+[2023-07-07 18:32:24] Debug: Invalid read strvar[0]! [10x]
+[2023-07-07 18:32:24] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:32:24] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:33:25] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:33:25] Debug: =======================================================
+[2023-07-07 18:33:25] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:33:25] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:33:25] Debug: Seeded the RNG with 1688765604.
+[2023-07-07 18:33:25] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:33:25] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:33:25] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:33:25] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:33:25] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:33:25] Debug: Game and Save Directory:
+[2023-07-07 18:33:25] Debug: 1: [Native] 
+[2023-07-07 18:33:25] Debug: Loading game ezrpg
+[2023-07-07 18:33:25] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:33:25] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:33:25] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:33:25] Debug: Unable to detect version from exe
+[2023-07-07 18:33:25] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:33:25] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:33:25] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:33:25] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:33:25] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:33:25] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:33:25] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:33:25] Debug: Cannot find: Font/Font
+[2023-07-07 18:33:25] Debug: Cannot find: Font/Font2
+[2023-07-07 18:33:25] Debug: Resolution changed to 320x240
+[2023-07-07 18:33:25] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:33:25] Debug: Tree: INIT < map2
+[2023-07-07 18:33:26] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:33:26] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:26] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:27] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:28] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:29] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:33:29] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:33:38] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:33:38] Debug: =======================================================
+[2023-07-07 18:33:38] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:33:38] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:33:38] Debug: Seeded the RNG with 1688765618.
+[2023-07-07 18:33:38] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:33:38] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:33:38] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:33:38] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:33:38] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:33:38] Debug: Game and Save Directory:
+[2023-07-07 18:33:38] Debug: 1: [Native] 
+[2023-07-07 18:33:38] Debug: Loading game ezrpg
+[2023-07-07 18:33:38] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:33:38] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:33:38] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:33:38] Debug: Unable to detect version from exe
+[2023-07-07 18:33:38] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:33:38] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:33:38] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:33:38] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:33:38] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:33:38] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:33:38] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:33:38] Debug: Cannot find: Font/Font
+[2023-07-07 18:33:38] Debug: Cannot find: Font/Font2
+[2023-07-07 18:33:38] Debug: Resolution changed to 320x240
+[2023-07-07 18:33:38] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:33:38] Debug: Tree: INIT < map2
+[2023-07-07 18:33:39] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:33:39] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:39] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:40] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Cannot find: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Unable to open in either Game or Save: Text/#easyrpg
+[2023-07-07 18:33:41] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:33:41] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:33:53] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:33:53] Debug: =======================================================
+[2023-07-07 18:33:53] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:33:53] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:33:53] Debug: Seeded the RNG with 1688765632.
+[2023-07-07 18:33:53] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:33:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:33:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:33:53] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:33:53] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:33:53] Debug: Game and Save Directory:
+[2023-07-07 18:33:53] Debug: 1: [Native] 
+[2023-07-07 18:33:53] Debug: Loading game ezrpg
+[2023-07-07 18:33:53] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:33:53] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:33:53] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:33:53] Debug: Unable to detect version from exe
+[2023-07-07 18:33:53] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:33:53] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:33:53] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:33:53] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:33:53] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:33:53] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:33:53] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:33:53] Debug: Cannot find: Font/Font
+[2023-07-07 18:33:53] Debug: Cannot find: Font/Font2
+[2023-07-07 18:33:53] Debug: Resolution changed to 320x240
+[2023-07-07 18:33:53] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:33:53] Debug: Tree: INIT < map2
+[2023-07-07 18:33:54] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:33:54] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:54] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:55] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Cannot find: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Unable to open in either Game or Save: Text/./#easyrpg
+[2023-07-07 18:33:56] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:33:56] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:34:09] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:34:09] Debug: =======================================================
+[2023-07-07 18:34:09] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:34:09] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:34:09] Debug: Seeded the RNG with 1688765648.
+[2023-07-07 18:34:09] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:34:09] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:34:09] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:34:09] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:34:09] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:34:09] Debug: Game and Save Directory:
+[2023-07-07 18:34:09] Debug: 1: [Native] 
+[2023-07-07 18:34:09] Debug: Loading game ezrpg
+[2023-07-07 18:34:09] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:34:09] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:34:09] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:34:09] Debug: Unable to detect version from exe
+[2023-07-07 18:34:09] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:34:09] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:34:09] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:34:09] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:34:09] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:34:09] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:34:09] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:34:09] Debug: Cannot find: Font/Font
+[2023-07-07 18:34:09] Debug: Cannot find: Font/Font2
+[2023-07-07 18:34:09] Debug: Resolution changed to 320x240
+[2023-07-07 18:34:09] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:34:09] Debug: Tree: INIT < map2
+[2023-07-07 18:34:10] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:34:12] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:34:12] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:34:20] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:34:20] Debug: =======================================================
+[2023-07-07 18:34:20] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:34:20] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:34:20] Debug: Seeded the RNG with 1688765659.
+[2023-07-07 18:34:20] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:34:20] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:34:20] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:34:20] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:34:20] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:34:20] Debug: Game and Save Directory:
+[2023-07-07 18:34:20] Debug: 1: [Native] 
+[2023-07-07 18:34:20] Debug: Loading game ezrpg
+[2023-07-07 18:34:20] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:34:20] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:34:20] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:34:20] Debug: Unable to detect version from exe
+[2023-07-07 18:34:20] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:34:20] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:34:20] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:34:20] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:34:20] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:34:20] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:34:20] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:34:20] Debug: Cannot find: Font/Font
+[2023-07-07 18:34:20] Debug: Cannot find: Font/Font2
+[2023-07-07 18:34:20] Debug: Resolution changed to 320x240
+[2023-07-07 18:34:20] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:34:20] Debug: Tree: INIT < map2
+[2023-07-07 18:34:21] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:34:43] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:34:43] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:35:20] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:35:20] Debug: =======================================================
+[2023-07-07 18:35:20] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:35:20] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:35:20] Debug: Seeded the RNG with 1688765720.
+[2023-07-07 18:35:20] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:35:20] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:35:20] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:35:20] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:35:20] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:35:20] Debug: Game and Save Directory:
+[2023-07-07 18:35:20] Debug: 1: [Native] 
+[2023-07-07 18:35:20] Debug: Loading game ezrpg
+[2023-07-07 18:35:20] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:35:20] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:35:20] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:35:20] Debug: Unable to detect version from exe
+[2023-07-07 18:35:20] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:35:20] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:35:20] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:35:20] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:35:20] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:35:20] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:35:20] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:35:20] Debug: Cannot find: Font/Font
+[2023-07-07 18:35:20] Debug: Cannot find: Font/Font2
+[2023-07-07 18:35:20] Debug: Resolution changed to 320x240
+[2023-07-07 18:35:20] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:35:20] Debug: Tree: INIT < map2
+[2023-07-07 18:35:21] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:35:24] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:35:24] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:35:41] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:35:41] Debug: =======================================================
+[2023-07-07 18:35:41] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:35:41] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:35:41] Debug: Seeded the RNG with 1688765741.
+[2023-07-07 18:35:41] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:35:41] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:35:41] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:35:41] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:35:41] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:35:41] Debug: Game and Save Directory:
+[2023-07-07 18:35:41] Debug: 1: [Native] 
+[2023-07-07 18:35:41] Debug: Loading game ezrpg
+[2023-07-07 18:35:41] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:35:41] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:35:41] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:35:41] Debug: Unable to detect version from exe
+[2023-07-07 18:35:41] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:35:41] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:35:41] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:35:41] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:35:41] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:35:41] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:35:41] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:35:41] Debug: Cannot find: Font/Font
+[2023-07-07 18:35:41] Debug: Cannot find: Font/Font2
+[2023-07-07 18:35:41] Debug: Resolution changed to 320x240
+[2023-07-07 18:35:41] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:35:41] Debug: Tree: INIT < map2
+[2023-07-07 18:35:42] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:35:44] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:35:44] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:38:33] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:38:33] Debug: =======================================================
+[2023-07-07 18:38:33] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:38:33] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:38:33] Debug: Seeded the RNG with 1688765913.
+[2023-07-07 18:38:33] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:38:33] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:38:33] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:38:33] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:38:33] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:38:33] Debug: Game and Save Directory:
+[2023-07-07 18:38:33] Debug: 1: [Native] 
+[2023-07-07 18:38:34] Debug: Loading game ezrpg
+[2023-07-07 18:38:34] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:38:34] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:38:34] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:38:34] Debug: Unable to detect version from exe
+[2023-07-07 18:38:34] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:38:34] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:38:34] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:38:34] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:38:34] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:38:34] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:38:34] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:38:34] Debug: Cannot find: Font/Font
+[2023-07-07 18:38:34] Debug: Cannot find: Font/Font2
+[2023-07-07 18:38:34] Debug: Resolution changed to 320x240
+[2023-07-07 18:38:34] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:38:34] Debug: Tree: INIT < map2
+[2023-07-07 18:38:35] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:46:31] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:46:31] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:46:48] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 18:46:48] Debug: =======================================================
+[2023-07-07 18:46:48] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 18:46:48] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 18:46:48] Debug: Seeded the RNG with 1688766407.
+[2023-07-07 18:46:48] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 18:46:48] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 18:46:48] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 18:46:48] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 18:46:48] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 18:46:48] Debug: Game and Save Directory:
+[2023-07-07 18:46:48] Debug: 1: [Native] 
+[2023-07-07 18:46:48] Debug: Loading game ezrpg
+[2023-07-07 18:46:48] Debug: EXEReader: BITMAP not found.
+[2023-07-07 18:46:48] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 18:46:48] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 18:46:48] Debug: Unable to detect version from exe
+[2023-07-07 18:46:48] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 18:46:48] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 18:46:48] Debug: RTP is "Official English" (675/675)
+[2023-07-07 18:46:48] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 18:46:48] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 18:46:48] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:46:48] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 18:46:48] Debug: Cannot find: Font/Font
+[2023-07-07 18:46:48] Debug: Cannot find: Font/Font2
+[2023-07-07 18:46:48] Debug: Resolution changed to 320x240
+[2023-07-07 18:46:48] Debug: Loaded Map Map0003.lmu
+[2023-07-07 18:46:48] Debug: Tree: INIT < map2
+[2023-07-07 18:46:49] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 18:46:51] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 18:46:51] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 19:00:16] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 19:00:16] Debug: =======================================================
+[2023-07-07 19:00:16] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 19:00:16] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 19:00:16] Debug: Seeded the RNG with 1688767216.
+[2023-07-07 19:00:16] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 19:00:16] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 19:00:16] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 19:00:16] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 19:00:16] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 19:00:16] Debug: Game and Save Directory:
+[2023-07-07 19:00:16] Debug: 1: [Native] 
+[2023-07-07 19:00:16] Debug: Loading game ezrpg
+[2023-07-07 19:00:16] Debug: EXEReader: BITMAP not found.
+[2023-07-07 19:00:16] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 19:00:16] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 19:00:16] Debug: Unable to detect version from exe
+[2023-07-07 19:00:16] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 19:00:16] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 19:00:16] Debug: RTP is "Official English" (675/675)
+[2023-07-07 19:00:16] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 19:00:16] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 19:00:16] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 19:00:16] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 19:00:16] Debug: Cannot find: Font/Font
+[2023-07-07 19:00:16] Debug: Cannot find: Font/Font2
+[2023-07-07 19:00:16] Debug: Resolution changed to 320x240
+[2023-07-07 19:00:16] Debug: Loaded Map Map0003.lmu
+[2023-07-07 19:00:16] Debug: Tree: INIT < map2
+[2023-07-07 19:00:17] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 19:00:26] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 19:00:26] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 19:00:59] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2023-07-07 19:00:59] Debug: =======================================================
+[2023-07-07 19:00:59] Debug: CLI: TestPlay ShowTitle Window 
+[2023-07-07 19:00:59] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-07-07 19:00:59] Debug: Seeded the RNG with 1688767258.
+[2023-07-07 19:00:59] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-07-07 19:00:59] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-07-07 19:00:59] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-07-07 19:00:59] Debug: Controller 0 (Xbox 360 Controller) added
+[2023-07-07 19:00:59] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-07-07 19:00:59] Debug: Game and Save Directory:
+[2023-07-07 19:00:59] Debug: 1: [Native] 
+[2023-07-07 19:00:59] Debug: Loading game ezrpg
+[2023-07-07 19:00:59] Debug: EXEReader: BITMAP not found.
+[2023-07-07 19:00:59] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-07-07 19:00:59] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-07-07 19:00:59] Debug: Unable to detect version from exe
+[2023-07-07 19:00:59] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-07-07 19:00:59] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-07-07 19:00:59] Debug: RTP is "Official English" (675/675)
+[2023-07-07 19:00:59] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-07-07 19:00:59] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-07-07 19:00:59] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 19:00:59] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-07-07 19:00:59] Debug: Cannot find: Font/Font
+[2023-07-07 19:00:59] Debug: Cannot find: Font/Font2
+[2023-07-07 19:00:59] Debug: Resolution changed to 320x240
+[2023-07-07 19:00:59] Debug: Loaded Map Map0003.lmu
+[2023-07-07 19:00:59] Debug: Tree: INIT < map2
+[2023-07-07 19:01:00] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-07-07 19:01:06] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-07-07 19:01:06] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-10-22 14:20:16] Debug: EasyRPG Player 0.8 git+158@3eba365b (2023-10-13) started
+[2023-10-22 14:20:16] Debug: ========================================================
+[2023-10-22 14:20:16] Debug: CLI: 
+[2023-10-22 14:20:16] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-10-22 14:20:16] Debug: Seeded the RNG with 1697995215.
+[2023-10-22 14:20:16] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-10-22 14:20:16] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-10-22 14:20:16] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-10-22 14:20:16] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-10-22 14:20:16] Debug: Game and Save Directory:
+[2023-10-22 14:20:16] Debug: 1: [Native] 
+[2023-10-22 14:20:16] Debug: Loading game ezrpg
+[2023-10-22 14:20:16] Debug: EXEReader: BITMAP not found.
+[2023-10-22 14:20:16] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-10-22 14:20:16] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-10-22 14:20:16] Debug: Unable to detect version from exe
+[2023-10-22 14:20:16] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-10-22 14:20:16] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-10-22 14:20:16] Debug: RTP is "Official English" (675/675)
+[2023-10-22 14:20:16] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-10-22 14:20:16] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-10-22 14:20:16] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-10-22 14:20:16] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-10-22 14:20:16] Debug: Cannot find: Font/Font
+[2023-10-22 14:20:16] Debug: Cannot find: Font/Font2
+[2023-10-22 14:20:17] Debug: Resolution changed to 320x240
+[2023-10-22 14:20:17] Debug: Loaded Map Map0003.lmu
+[2023-10-22 14:20:17] Debug: Tree: INIT < map2
+[2023-10-22 14:20:18] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-10-22 14:20:23] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-10-22 14:20:23] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-10-22 14:20:26] Debug: EasyRPG Player 0.8 git+158@3eba365b (2023-10-13) started
+[2023-10-22 14:20:26] Debug: ========================================================
+[2023-10-22 14:20:26] Debug: CLI: 
+[2023-10-22 14:20:26] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2023-10-22 14:20:26] Debug: Seeded the RNG with 1697995226.
+[2023-10-22 14:20:26] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2023-10-22 14:20:26] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2023-10-22 14:20:26] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2023-10-22 14:20:26] Debug: Detected encoding: ibm-5348_P100-1997
+[2023-10-22 14:20:26] Debug: Game and Save Directory:
+[2023-10-22 14:20:26] Debug: 1: [Native] 
+[2023-10-22 14:20:26] Debug: Loading game ezrpg
+[2023-10-22 14:20:26] Debug: EXEReader: BITMAP not found.
+[2023-10-22 14:20:26] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2023-10-22 14:20:26] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2023-10-22 14:20:26] Debug: Unable to detect version from exe
+[2023-10-22 14:20:26] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2023-10-22 14:20:26] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2023-10-22 14:20:26] Debug: RTP is "Official English" (675/675)
+[2023-10-22 14:20:26] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2023-10-22 14:20:26] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2023-10-22 14:20:26] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-10-22 14:20:26] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2023-10-22 14:20:26] Debug: Cannot find: Font/Font
+[2023-10-22 14:20:26] Debug: Cannot find: Font/Font2
+[2023-10-22 14:20:27] Debug: Resolution changed to 320x240
+[2023-10-22 14:20:27] Debug: Loaded Map Map0003.lmu
+[2023-10-22 14:20:27] Debug: Tree: INIT < map2
+[2023-10-22 14:20:28] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2023-10-22 14:20:34] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2023-10-22 14:20:34] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:07:17] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 00:07:17] Debug: =======================================================
+[2024-06-25 00:07:17] Debug: CLI: TestPlay HideTitle Window 
+[2024-06-25 00:07:17] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 00:07:17] Debug: Seeded the RNG with 1719284836.
+[2024-06-25 00:07:17] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 00:07:17] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 00:07:17] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 00:07:17] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 00:07:17] Debug: Game and Save Directory:
+[2024-06-25 00:07:17] Debug: 1: [Native] 
+[2024-06-25 00:07:17] Debug: Loading game ezrpg
+[2024-06-25 00:07:17] Debug: EXEReader: BITMAP not found.
+[2024-06-25 00:07:17] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 00:07:17] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 00:07:17] Debug: Unable to detect version from exe
+[2024-06-25 00:07:17] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 00:07:17] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 00:07:17] Debug: RTP is "Official English" (675/675)
+[2024-06-25 00:07:17] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 00:07:17] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 00:07:17] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:07:17] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:07:17] Debug: Cannot find: Font/Font
+[2024-06-25 00:07:17] Debug: Cannot find: Font/Font2
+[2024-06-25 00:07:17] Debug: Resolution changed to 320x240
+[2024-06-25 00:07:17] Debug: Loaded Map Map0003.lmu
+[2024-06-25 00:07:17] Debug: Tree: INIT < map2
+[2024-06-25 00:07:26] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:07:26] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:07:48] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 00:07:48] Debug: =======================================================
+[2024-06-25 00:07:48] Debug: CLI: TestPlay HideTitle Window 
+[2024-06-25 00:07:48] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 00:07:48] Debug: Seeded the RNG with 1719284868.
+[2024-06-25 00:07:48] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 00:07:48] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 00:07:48] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 00:07:48] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 00:07:48] Debug: Game and Save Directory:
+[2024-06-25 00:07:48] Debug: 1: [Native] 
+[2024-06-25 00:07:48] Debug: Loading game ezrpg
+[2024-06-25 00:07:48] Debug: EXEReader: BITMAP not found.
+[2024-06-25 00:07:48] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 00:07:48] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 00:07:48] Debug: Unable to detect version from exe
+[2024-06-25 00:07:48] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 00:07:48] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 00:07:48] Debug: RTP is "Official English" (675/675)
+[2024-06-25 00:07:49] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 00:07:49] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 00:07:49] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:07:49] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:07:49] Debug: Cannot find: Font/Font
+[2024-06-25 00:07:49] Debug: Cannot find: Font/Font2
+[2024-06-25 00:07:49] Debug: Resolution changed to 320x240
+[2024-06-25 00:07:49] Debug: Loaded Map Map0001.lmu
+[2024-06-25 00:07:49] Debug: Tree: MAP0001
+[2024-06-25 00:07:51] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:07:51] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:08:32] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 00:08:32] Debug: =======================================================
+[2024-06-25 00:08:32] Debug: CLI: 
+[2024-06-25 00:08:32] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 00:08:32] Debug: Seeded the RNG with 1719284911.
+[2024-06-25 00:08:32] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 00:08:32] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 00:08:32] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 00:08:32] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 00:08:32] Debug: Game and Save Directory:
+[2024-06-25 00:08:32] Debug: 1: [Native] 
+[2024-06-25 00:08:32] Debug: Loading game ezrpg
+[2024-06-25 00:08:32] Debug: EXEReader: BITMAP not found.
+[2024-06-25 00:08:32] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 00:08:32] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 00:08:32] Debug: Unable to detect version from exe
+[2024-06-25 00:08:32] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 00:08:32] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 00:08:32] Debug: RTP is "Official English" (675/675)
+[2024-06-25 00:08:32] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 00:08:32] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 00:08:32] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:08:32] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:08:32] Debug: Cannot find: Font/Font
+[2024-06-25 00:08:32] Debug: Cannot find: Font/Font2
+[2024-06-25 00:08:33] Debug: Resolution changed to 320x240
+[2024-06-25 00:08:33] Debug: Loaded Map Map0001.lmu
+[2024-06-25 00:08:33] Debug: Tree: MAP0001
+[2024-06-25 00:08:34] Debug: Game uses RTP "Official English"
+[2024-06-25 00:08:34] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2024-06-25 00:08:38] Debug: Cannot find: Text/test?32423
+[2024-06-25 00:08:38] Debug: Unable to open in either Game or Save: Text/test?32423
+[2024-06-25 00:08:40] Debug: Cannot find: Text/test?32423
+[2024-06-25 00:08:40] Debug: Unable to open in either Game or Save: Text/test?32423
+[2024-06-25 00:08:41] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:08:41] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:08:44] Debug: EasyRPG Player 0.8 git+158@3eba365b (2023-10-13) started
+[2024-06-25 00:08:44] Debug: ========================================================
+[2024-06-25 00:08:44] Debug: CLI: 
+[2024-06-25 00:08:44] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 00:08:44] Debug: Seeded the RNG with 1719284923.
+[2024-06-25 00:08:44] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 00:08:44] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 00:08:44] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 00:08:44] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 00:08:44] Debug: Game and Save Directory:
+[2024-06-25 00:08:44] Debug: 1: [Native] 
+[2024-06-25 00:08:44] Debug: Loading game ezrpg
+[2024-06-25 00:08:44] Debug: EXEReader: BITMAP not found.
+[2024-06-25 00:08:44] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 00:08:44] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 00:08:44] Debug: Unable to detect version from exe
+[2024-06-25 00:08:44] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 00:08:44] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 00:08:44] Debug: RTP is "Official English" (675/675)
+[2024-06-25 00:08:44] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 00:08:44] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 00:08:44] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:08:44] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 00:08:44] Debug: Cannot find: Font/Font
+[2024-06-25 00:08:44] Debug: Cannot find: Font/Font2
+[2024-06-25 00:08:45] Debug: Resolution changed to 320x240
+[2024-06-25 00:08:46] Debug: Loaded Map Map0001.lmu
+[2024-06-25 00:08:46] Debug: Tree: MAP0001
+[2024-06-25 00:08:47] Debug: Game uses RTP "Official English"
+[2024-06-25 00:08:47] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2024-06-25 00:08:48] Debug: Cannot find: Text/test?32423
+[2024-06-25 00:08:48] Debug: Unable to open in either Game or Save: Text/test?32423
+[2024-06-25 00:08:50] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 00:08:50] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:04:08] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 18:04:08] Debug: =======================================================
+[2024-06-25 18:04:08] Debug: CLI: TestPlay HideTitle Window 
+[2024-06-25 18:04:08] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 18:04:08] Debug: Seeded the RNG with 1719349448.
+[2024-06-25 18:04:08] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 18:04:08] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 18:04:08] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 18:04:08] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 18:04:08] Debug: Game and Save Directory:
+[2024-06-25 18:04:08] Debug: 1: [Native] 
+[2024-06-25 18:04:08] Debug: Loading game ezrpg
+[2024-06-25 18:04:08] Debug: EXEReader: BITMAP not found.
+[2024-06-25 18:04:08] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 18:04:08] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 18:04:08] Debug: Unable to detect version from exe
+[2024-06-25 18:04:08] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 18:04:08] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 18:04:09] Debug: RTP is "Official English" (675/675)
+[2024-06-25 18:04:09] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 18:04:09] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 18:04:09] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:04:09] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:04:09] Debug: Cannot find: Font/Font
+[2024-06-25 18:04:09] Debug: Cannot find: Font/Font2
+[2024-06-25 18:04:09] Debug: Resolution changed to 320x240
+[2024-06-25 18:04:09] Debug: Loaded Map Map0003.lmu
+[2024-06-25 18:04:09] Debug: Tree: INIT < map2
+[2024-06-25 18:04:11] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:04:11] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:04:50] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 18:04:50] Debug: =======================================================
+[2024-06-25 18:04:50] Debug: CLI: TestPlay ShowTitle Window 
+[2024-06-25 18:04:50] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 18:04:50] Debug: Seeded the RNG with 1719349489.
+[2024-06-25 18:04:50] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 18:04:50] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 18:04:50] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 18:04:50] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 18:04:50] Debug: Game and Save Directory:
+[2024-06-25 18:04:50] Debug: 1: [Native] 
+[2024-06-25 18:04:50] Debug: Loading game ezrpg
+[2024-06-25 18:04:50] Debug: EXEReader: BITMAP not found.
+[2024-06-25 18:04:50] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 18:04:50] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 18:04:50] Debug: Unable to detect version from exe
+[2024-06-25 18:04:50] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 18:04:50] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 18:04:50] Debug: RTP is "Official English" (675/675)
+[2024-06-25 18:04:50] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 18:04:50] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 18:04:50] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:04:50] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:04:50] Debug: Cannot find: Font/Font
+[2024-06-25 18:04:50] Debug: Cannot find: Font/Font2
+[2024-06-25 18:04:50] Debug: Resolution changed to 320x240
+[2024-06-25 18:04:50] Debug: Loaded Map Map0003.lmu
+[2024-06-25 18:04:50] Debug: Tree: INIT < map2
+[2024-06-25 18:04:51] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2024-06-25 18:05:12] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:05:12] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:05:27] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 18:05:27] Debug: =======================================================
+[2024-06-25 18:05:27] Debug: CLI: TestPlay ShowTitle Window 
+[2024-06-25 18:05:27] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 18:05:27] Debug: Seeded the RNG with 1719349527.
+[2024-06-25 18:05:27] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 18:05:27] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 18:05:27] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 18:05:27] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 18:05:27] Debug: Game and Save Directory:
+[2024-06-25 18:05:27] Debug: 1: [Native] 
+[2024-06-25 18:05:27] Debug: Loading game ezrpg
+[2024-06-25 18:05:27] Debug: EXEReader: BITMAP not found.
+[2024-06-25 18:05:27] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 18:05:27] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 18:05:27] Debug: Unable to detect version from exe
+[2024-06-25 18:05:27] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 18:05:27] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 18:05:28] Debug: RTP is "Official English" (675/675)
+[2024-06-25 18:05:28] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 18:05:28] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 18:05:28] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:05:28] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:05:28] Debug: Cannot find: Font/Font
+[2024-06-25 18:05:28] Debug: Cannot find: Font/Font2
+[2024-06-25 18:05:28] Debug: Resolution changed to 320x240
+[2024-06-25 18:05:28] Debug: Loaded Map Map0003.lmu
+[2024-06-25 18:05:28] Debug: Tree: INIT < map2
+[2024-06-25 18:05:29] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2024-06-25 18:05:33] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:05:33] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:42:19] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 18:42:19] Debug: =======================================================
+[2024-06-25 18:42:19] Debug: CLI: TestPlay ShowTitle Window 
+[2024-06-25 18:42:19] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 18:42:19] Debug: Seeded the RNG with 1719351738.
+[2024-06-25 18:42:19] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 18:42:19] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 18:42:19] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 18:42:19] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 18:42:19] Debug: Game and Save Directory:
+[2024-06-25 18:42:19] Debug: 1: [Native] 
+[2024-06-25 18:42:19] Debug: Loading game ezrpg
+[2024-06-25 18:42:19] Debug: EXEReader: BITMAP not found.
+[2024-06-25 18:42:19] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 18:42:19] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 18:42:19] Debug: Unable to detect version from exe
+[2024-06-25 18:42:19] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 18:42:19] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 18:42:19] Debug: RTP is "Official English" (675/675)
+[2024-06-25 18:42:19] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 18:42:19] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 18:42:19] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:42:19] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 18:42:19] Debug: Cannot find: Font/Font
+[2024-06-25 18:42:19] Debug: Cannot find: Font/Font2
+[2024-06-25 18:42:20] Debug: Resolution changed to 320x240
+[2024-06-25 18:42:20] Debug: Loaded Map Map0003.lmu
+[2024-06-25 18:42:20] Debug: Tree: INIT < map2
+[2024-06-25 18:42:21] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2024-06-25 18:42:22] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 18:42:22] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 21:25:03] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 21:25:03] Debug: =======================================================
+[2024-06-25 21:25:03] Debug: CLI: TestPlay HideTitle Window 
+[2024-06-25 21:25:03] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 21:25:03] Debug: Seeded the RNG with 1719361502.
+[2024-06-25 21:25:03] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 21:25:03] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 21:25:03] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 21:25:03] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 21:25:03] Debug: Game and Save Directory:
+[2024-06-25 21:25:03] Debug: 1: [Native] 
+[2024-06-25 21:25:03] Debug: Loading game ezrpg
+[2024-06-25 21:25:03] Debug: EXEReader: BITMAP not found.
+[2024-06-25 21:25:03] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 21:25:03] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 21:25:03] Debug: Unable to detect version from exe
+[2024-06-25 21:25:03] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 21:25:03] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 21:25:03] Debug: RTP is "Official English" (675/675)
+[2024-06-25 21:25:03] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 21:25:03] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 21:25:03] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 21:25:03] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 21:25:03] Debug: Cannot find: Font/Font
+[2024-06-25 21:25:03] Debug: Cannot find: Font/Font2
+[2024-06-25 21:25:04] Debug: Resolution changed to 320x240
+[2024-06-25 21:25:04] Debug: Loaded Map Map0003.lmu
+[2024-06-25 21:25:04] Debug: Tree: INIT < map2
+[2024-06-25 21:25:06] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 21:25:06] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 21:25:10] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 21:25:10] Debug: =======================================================
+[2024-06-25 21:25:10] Debug: CLI: TestPlay HideTitle FullScreen 
+[2024-06-25 21:25:10] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 21:25:10] Debug: Seeded the RNG with 1719361509.
+[2024-06-25 21:25:10] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 21:25:10] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 21:25:10] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 21:25:10] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 21:25:10] Debug: Game and Save Directory:
+[2024-06-25 21:25:10] Debug: 1: [Native] 
+[2024-06-25 21:25:10] Debug: Loading game ezrpg
+[2024-06-25 21:25:10] Debug: EXEReader: BITMAP not found.
+[2024-06-25 21:25:10] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 21:25:10] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 21:25:10] Debug: Unable to detect version from exe
+[2024-06-25 21:25:10] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 21:25:10] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 21:25:10] Debug: RTP is "Official English" (675/675)
+[2024-06-25 21:25:10] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 21:25:10] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 21:25:10] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 21:25:10] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 21:25:10] Debug: Cannot find: Font/Font
+[2024-06-25 21:25:10] Debug: Cannot find: Font/Font2
+[2024-06-25 21:25:10] Debug: Resolution changed to 320x240
+[2024-06-25 21:25:10] Debug: Loaded Map Map0003.lmu
+[2024-06-25 21:25:10] Debug: Tree: INIT < map2
+[2024-06-25 21:25:12] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 21:25:12] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 21:25:15] Debug: EasyRPG Player 0.8 git+85@f7613468 (2023-07-05) started
+[2024-06-25 21:25:15] Debug: =======================================================
+[2024-06-25 21:25:15] Debug: CLI: TestPlay ShowTitle FullScreen 
+[2024-06-25 21:25:15] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-06-25 21:25:15] Debug: Seeded the RNG with 1719361514.
+[2024-06-25 21:25:15] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-06-25 21:25:15] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-06-25 21:25:15] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-06-25 21:25:15] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-06-25 21:25:15] Debug: Game and Save Directory:
+[2024-06-25 21:25:15] Debug: 1: [Native] 
+[2024-06-25 21:25:15] Debug: Loading game ezrpg
+[2024-06-25 21:25:15] Debug: EXEReader: BITMAP not found.
+[2024-06-25 21:25:15] Debug: EXEReader: VERSIONINFO resource found (DE 0x11ccdb0; 0x11fe6f8; len 0x320)
+[2024-06-25 21:25:15] Debug: RPG_RT information: version=0.8.0.0 logos=0 code=0x0 cherry=0x0 geep=0x0 i386=true easyrpg=true
+[2024-06-25 21:25:15] Debug: Unable to detect version from exe
+[2024-06-25 21:25:15] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-06-25 21:25:15] Debug: Adding C:\Program Files (x86)\Steam\steamapps\common\RPG Maker 2003\RTP to RTP path
+[2024-06-25 21:25:15] Debug: RTP is "Official English" (675/675)
+[2024-06-25 21:25:15] Debug: RTP path F:\workarea\maaaaaaaaahahahaha\BACKUP2\RPG Maker\RPG2000\Project\Projeto1\RTP is invalid, not adding
+[2024-06-25 21:25:15] Debug: Patch configuration: dynrpg=false maniac=true key-patch=false common-this=false pic-unlock=false 2k3-commands=false
+[2024-06-25 21:25:15] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 21:25:15] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
+[2024-06-25 21:25:15] Debug: Cannot find: Font/Font
+[2024-06-25 21:25:15] Debug: Cannot find: Font/Font2
+[2024-06-25 21:25:16] Debug: Resolution changed to 320x240
+[2024-06-25 21:25:16] Debug: Loaded Map Map0003.lmu
+[2024-06-25 21:25:16] Debug: Tree: INIT < map2
+[2024-06-25 21:25:17] Debug: Image size out of bounds: CharSet/A4Tste (288x256 < 480x256 < 288x256)
+[2024-06-25 21:25:49] Debug: Actor 1: Removing item 44 (of type 2) from equipment slot 2 (needs type 1)
+[2024-06-25 21:25:49] Debug: Actor 1: Removing item 67 from equipment slot 4 (Not equippable by this actor)
