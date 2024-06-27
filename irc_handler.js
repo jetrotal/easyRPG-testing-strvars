@@ -81,7 +81,7 @@ for (let id of msgTypes)
     }
 
    console.log('Received:', line);
-    if(line.includes("JOIN")) await FileOperations.updateFile(" \\C[4] CONNECTED", "Text/test.txt");   
+    if(line.includes("JOIN") && line.includes(nickname)) await FileOperations.updateFile(" \\C[4] CONNECTED", "Text/test.txt");   
 
     // vars were declared outside, on the root of the code
     if (line.includes("PRIVMSG")) {
@@ -116,7 +116,7 @@ for (let id of msgTypes)
             mergedMessage += "\n" + msg;
             
             // If we've reached 11 messages, reset the counter and merged message
-            if (repeatUserCounter === 11) {
+            if (repeatUserCounter === 11 || /!(up|down|left|right)/.test(msg)) {
                 repeatUserCounter = 0;
                 let splitMergedMessage = splitStringByLength(mergedMessage);
                 await FileOperations.updateFile(user + "\n" + splitMergedMessage, "Text/test.txt");
