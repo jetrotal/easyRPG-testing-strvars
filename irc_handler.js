@@ -59,7 +59,7 @@ function onOpen() {
   socket.send('USER 0 0 0 :'+nickname+' Bot');  
   socket.send('JOIN #EasyRPG_test');
   socket.send('JOIN #easyrpg');
-  socket.send('JOIN #make_her_walk');
+  socket.send('JOIN #make_him_walk');
 }
 
 async function onMessage(event) {
